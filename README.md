@@ -27,4 +27,4 @@ Here's what on my todo list:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwafula&show_icons=true&theme=cobalt)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwafula&show_icons=true&theme=onedark)
