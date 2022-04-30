@@ -11,7 +11,7 @@ Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Develope
 
 <img align="right" alt="GIF" src="https://wallpaperaccess.com/full/744062.jpg" width="400" height="320" />
 
-Here's what on my todo list:
+Here's what's on my todo list:
 
 - 🔭 I’m currently working on cool apps at Recess
 - 🌱 I’m currently learning Kotlin
