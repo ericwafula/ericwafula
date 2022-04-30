@@ -9,6 +9,8 @@
 
 Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Developer 🚀 from Kenya. I also love working on spring boot.
 
+<img align="right" alt="GIF" src="https://wallpaperaccess.com/full/744062.jpg" width="400" height="320" />
+
 Here's what on my todo list:
 
 - 🔭 I’m currently working on cool apps at Recess
@@ -20,4 +22,10 @@ Here's what on my todo list:
 
 - ⚡ Fun fact: did you know that the first bug in a software was an actual bug?
 
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwafula&hide=contribs,prs)
+**Languages and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/springboot/springboot.png"></code>
+
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericwafula&show_icons=true&theme=highcontrast)
