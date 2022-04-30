@@ -16,7 +16,7 @@ Here's what on my todo list:
 - 🔭 I’m currently working on cool apps at Recess
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any android or springboot projects
-- 
+
 - 💬 Ask me about anything. I'm ready to help
 - 📫 How to reach me: ericwathome007@gmail.com
 
