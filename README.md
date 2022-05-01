@@ -20,7 +20,7 @@ Here's what's on my todo list:
 - 💬 Ask me about anything. I'm ready to help
 - 📫 How to reach me: ericwathome007@gmail.com
 
-- ⚡ Fun fact: did you know that the first bug in a software was an actual bug?
+- ⚡ Fun fact: did you know that the first bug in software was an actual bug?
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
