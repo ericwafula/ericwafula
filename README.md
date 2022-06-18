@@ -13,7 +13,7 @@ Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Develope
 
 Here's what's on my todo list:
 
-- 🔭 I’m currently working on cool apps at Recess
+- 🔭 I’m currently working on cool apps
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate on any Android or Springboot projects
 
