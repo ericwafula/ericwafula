@@ -7,7 +7,7 @@
   <img align="left" alt="Eric's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 
-Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Developer 🚀 from Kenya who loves experimenting with different tools and frameworks. I'm currently working on CurrencyBuddy, a currency converter that is available on Google Play Store. You can check it out here: [Currency Buddy](https://play.google.com/store/apps/details?id=tech.ericwathome.currencybuddy)
+Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Developer 🚀 from Kenya who loves experimenting with different tools and frameworks. I'm currently working on CurrencyBuddy, a currency converter that is available on the Google Play Store. You can check it out here: [Currency Buddy](https://play.google.com/store/apps/details?id=tech.ericwathome.currencybuddy)
 
 <img align="right" alt="GIF" src="https://wallpaperaccess.com/full/744062.jpg" width="400" height="320" />
 
