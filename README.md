@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/EricWathome">
-  <img align="left" alt="Eric Wafula | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Eric Wafula | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ericwafula">
-  <img align="left" alt="Eric's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Eric's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 
-Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Developer 🚀 from Kenya. I also love working on spring boot.
+Hi, I'm [Eric Wafula!](https://ericwathome.tech/), a passionate Android Developer 🚀 from Kenya who loves experimenting with different tools and frameworks. I'm currently working on CurrencyBuddy, a currency converter that is available on Google Play Store. You can check it out here: ![Currency Buddy](https://play.google.com/store/apps/details?id=tech.ericwathome.currencybuddy)
 
 <img align="right" alt="GIF" src="https://wallpaperaccess.com/full/744062.jpg" width="400" height="320" />
 
