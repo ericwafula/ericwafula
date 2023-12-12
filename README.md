@@ -3,7 +3,7 @@
 <a href="https://twitter.com/EricWathome">
   <img align="left" alt="Eric Wafula | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ericwafula">
+<a href="https://www.linkedin.com/in/eric-wafula/">
   <img align="left" alt="Eric's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 
