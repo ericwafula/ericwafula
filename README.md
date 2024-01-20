@@ -15,7 +15,7 @@ Here's what's on my todo list:
 
 - 🔭 I’m currently working on cool apps
 - 🌱 I’m currently working with Kotlin
-- 👯 I’m looking to collaborate on any Android or Springboot projects
+- 👯 I’m looking to collaborate on any Android projects
 
 - 💬 Ask me about anything. I'm ready to help
 - 📫 How to reach me: ericwathome007@gmail.com
